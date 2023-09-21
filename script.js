@@ -415,30 +415,3 @@ let task729Func = (array)=> {
 }
 // task729Func(posts)
 // 7.30. HTML faile sukurti ul elementą ir tokiu pačiu formatu, kaip ankstesnėje užduotyje, išvesti visų masyvo narių pavadinimus surūšiuotus nuo mažiausiai iki daugiausiai raidžių "body" property turinčių narių. Papildomai, prie išvesto teksto pridėti ir "body" raidžių skaičių.
-
-//NESUGALVOJAUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
-
-
-
-
-
-
-// console.log(posts[0])
-// console.log(posts[0].body)
-// console.log(posts[0].title)
-
-// console.log(posts[1])
-// console.log(posts[1].body)
-// console.log(posts[1].title)
-
-// console.log(posts[2])
-// console.log(posts[2].body)
-// console.log(posts[2].title)
-
-// posts.forEach(post => {
-//   console.log(post)
-//   console.log(post.title)
-//   console.log(post.body)
-// })
-
-// console.log(posts.slice(5, 8))
